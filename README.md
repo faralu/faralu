@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Lucía  
 
-<!--
-**faralu/faralu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About me  
+Industrial Engineer turned Web Developer.  
 
-Here are some ideas to get you started:
+- 💻 Working at Faramax Trafo on a custom ERP-like system  
+- ⚡ Enjoy tackling complex problems and turning ideas into code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack  
+- **Backend:** PHP 8.4, MariaDB 11.8  
+- **Frontend:** React v19, JavaScript, HTML, CSS  
+- **Other interests:** Database optimization, clean code, and modern web workflows  
+
+---
+
+✨ _My journey in software engineering is ongoing, and I enjoy improving my skills while keeping up with new trends in web development._
